@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I’m a backend enthusiast with a knack for building robust systems that power cool projects. Currently freelancing on an agricultural B2B marketplace platform, and loving every minute of it. When I’m not lost in backend code, I’m diving into Aptos Move to build on the blockchain. 🌐<br><br>I’m an introverted observer by nature, but I’m always up for collaborating on software engineering or backend roles—just give me a good problem to solve! Oh, and by the way, I’m actively looking for my next big gig, so if you're hiring, let's chat!<br><br>
+👋 Hey there! I’m a backend enthusiast with a knack for building robust systems that power cool projects. Currently building [Librobase](https://librobase.com) - the next big thing for readers and writers. When I’m not lost in backend code, I’m diving into different blockchain ecosystems to build on the Blockchain. 🌐<br><br>I’m an introverted observer by nature, but I’m always up for collaborating on software engineering or backend roles—just give me a good problem to solve! Oh, and by the way, I’m actively looking for my next big gig, so if you're hiring, let's chat!<br><br>
 
 
 ## 🌐 Socials:
