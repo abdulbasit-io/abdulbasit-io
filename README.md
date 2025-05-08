@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hey there! I’m a backend enthusiast with a knack for building robust systems that power cool projects. Currently building [Librobase](https://librobase.com) - the next big thing for readers and writers. When I’m not lost in backend code, I’m diving into different blockchain ecosystems to build on the Blockchain. 🌐<br><br>I’m an introverted observer by nature, but I’m always up for collaborating on software engineering or backend roles—just give me a good problem to solve! Oh, and by the way, I’m actively looking for my next big gig, so if you're hiring, let's chat!<br><br>
+👋 Hi, I’m Abdulbasit, a full-stack engineer with a backend focus. I'm building [Librobase](https://librobase.com), a digital platform for readers and writers, while exploring the potential of AI and decentralization.
+
+When I'm not coding or designing systems, I enjoy reading, studying patterns, and tinkering with machine learning and blockchain.
+
+I’m passionate about creating scalable and resilient solutions. I'm open to opportunities and collaborations, so feel free to reach out!<br><br>
 
 
 ## 🌐 Socials:
