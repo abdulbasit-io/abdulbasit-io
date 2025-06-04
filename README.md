@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdulbasit, a full-stack engineer with a backend focus. I'm building [Librobase](https://librobase.com), a digital platform for readers and writers, while exploring the potential of AI and decentralization.
+👋 Hi, I’m Abdulbasit, a full-stack engineer who likes logic more. I'm building [Librobase](https://librobase.com), a digital platform for readers and writers, while exploring the potentials of AI and decentralization.
 
 When I'm not coding or designing systems, I enjoy reading, studying patterns, and tinkering with machine learning and blockchain.
 
